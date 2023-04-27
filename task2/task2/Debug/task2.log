@@ -1,0 +1,4 @@
+﻿  task2.cpp
+D:\study\28.04.2023C++\task2\task2\task2.cpp(26,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\study\28.04.2023C++\task2\task2\task2.cpp(299,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  task2.vcxproj -> D:\study\28.04.2023C++\task2\Debug\task2.exe
